@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, 
 - 🌱 I’m currently learning JS, Html, Css
 - 💞️ I’m looking to collaborate on A big project like the website of Apple
-- 📫 How to reach me tel: 0489490831, 
+- 📫 How to reach me tel: 0489490831 Linkedin: Tolunay Kutlu
 
 <!---
 tolunay17/tolunay17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
